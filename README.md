@@ -13,9 +13,13 @@
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
 1.sebuah prinsip developer untuk mengkoordinasikan antar tim yaitu tim development dengan tim operations dengan efektif dan efisien.
+
 2.layanan yang yang di berikan sesuai permintaan di salah satu infrastruktur TI komputasi awan,  termasuk sumber daya perangkat keras dengan teknologi virtualisasi (CPU/memori/penyimpanan) melalui Internet.
+
 3.yang saya ketahhui tentang server Server yaitu sistem komputer yang menyediakan sumber daya untuk penyimpanan data. Misalnya menampilkan website, mengirim email, dan lainnya.
+
 4.karena jika ada server system tidak akan berjalan karna server penydia layanan di dalam sovware
+
 5.yang saya ketahui tentang Virtualisasi yaitu sebuah proses berbasis software atau virtual, representasi dari sesuatu, baik itu aplikasi virtual, server, ruang penyimpanan, dan koneksi. Virtualisasi juga salah satu cara yang paling efektif untuk mengurangi ongkos IT sekaligus meningkatkan efisiensi untuk segala macam bisnis.
 
 sedangkan untuk Container yaitu suatu alternative teknologi yang dapat di pergunakan untuk memvirtualisasi komputer system. Dengan mempergunakan Container kita dapat mengemas komputer programing menjadi suatu unit yang standard sehingga semua dependensi dari aplikasi dapat di ikut sertakan dalam kemasan tersebut.
